@@ -1,3 +1,3 @@
 # Segundo Trimestre
-## Site de apostas
-### Rhuan Cavalcanti - 34 e Eduardo Rezende - 05
+## Site de apostas.
+### Rhuan Cavalcanti Nº34 - Eduardo Koval Rezende Nº05
